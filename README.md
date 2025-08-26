@@ -31,16 +31,20 @@ I'm new to cybersecurity but passionate about protecting systems from threats. I
 
 **What I Learned**: I found a fake URL in the email and learned how to spot phishing faster.
 
-(Add more projects here as you create them in later steps.)
-
 ## Skills and Tools
 - Beginner-level tools: VirusTotal, Splunk, Wireshark.
 - Frameworks: MITRE ATT&CK.
 - Other skills: Basic log analysis, network monitoring.
 
 ## Certifications
-- (List any you have, e.g., "CompTIA Security+ - In Progress" or "None yet, but planning to get Security+ soon.")
+- Security Operations Center (SOC) Level 1 | TryHackMe | Completed
+
+Hands-on training in SIEM fundamentals, log analysis, incident triage, and threat detection using MITRE ATT&CK frameworks. Practiced network traffic analysis, simulated SOC workflows, and proactive monitoring of emerging threats.
+
+Google Cybersecurity Professional Certificate | Coursera | Completed 
+
+Developed foundational skills in risk assessment, Linux/CLI, scripting basics, IDS/IPS, and security frameworks. Gained proficiency in tools like SIEM, Splunk, and Python/SQL for cybersecurity analysis.
 
 ## Contact
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile (create a free LinkedIn if you don't have one).
+- Email: keerthivas220301@gmail.com
+- LinkedIn: www.linkedin.com/in/keerthivasan-muthusamy
