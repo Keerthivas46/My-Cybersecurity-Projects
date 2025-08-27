@@ -44,7 +44,7 @@ Hands-on training in SIEM fundamentals, log analysis, incident triage, and threa
 
 Google Cybersecurity Professional Certificate | Coursera | Completed 
 
-Developed foundational skills in risk assessment, Linux/CLI, scripting basics, IDS/IPS, and security frameworks. Gained proficiency in tools like SIEM, Splunk, and Python/SQL for cybersecurity analysis.![closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head (1)](https://github.com/user-attachments/assets/cf837d1a-e81f-440d-b278-e3db7d60893b)
+Developed foundational skills in risk assessment, Linux/CLI, scripting basics, IDS/IPS, and security frameworks. Gained proficiency in tools like SIEM, Splunk, and Python/SQL for cybersecurity analysis.
 
 
 
